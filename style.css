@@ -1,0 +1,44 @@
+h1{
+    color: red;
+}
+.h1{
+    color: yellow;
+}
+.prity{
+    color: brown;
+    text-align: end;
+    font-size: 24px;
+    font-style: italic;
+}
+.section{
+    height: 500px;
+    width: 500px;
+    background: #000;
+    text-align: center;
+    /* margin: 375px; */
+    margin-left: 375px;
+}.myh1{
+    color: #fff;
+    text-align: center;
+}
+p{
+    color: #fff;
+}
+.content{
+    width: 600px;
+    height: 600px;
+    background: rgba(114, 114, 32, 0.452);
+    text-align: center;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+
+.content h1{
+    color: #000;
+}
+.content p{
+    color: green;
+}
+.content h2,h3{
+    color: aqua;
+}
